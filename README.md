@@ -2,7 +2,7 @@
 
 ## I'm a Frontend Web Developer!
 
-- loves to do frontend works with react and redux
+- loves to do frontend works with react 
 
 
 ### Languages:
